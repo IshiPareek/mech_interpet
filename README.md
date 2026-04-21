@@ -4,7 +4,7 @@ Ongoing experiments probing the internal circuits of GPT-2 small using Transform
 ## Experiments
 | Notebook | What I found |
 |----------|-------------|
-| 01_gpt2_basics | Attention sink (H8) and previous token head (H11) in layer 4 |
+| Caching Activations with Visualisations | ---- |
 
 ## Setup
 pip install -r requirements.txt
